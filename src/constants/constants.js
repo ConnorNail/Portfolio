@@ -14,20 +14,20 @@ export const projects = [
     image: '/images/charlotte.png',
     tags: ['CAD', 'Ansys', 'Flownex', 'ROS'],
     source: 'https://github.com/lordarcadius/website',
-    visit: 'https://project.vipuljha.com/website/',
+    visit: '/charlotte',
     id: 1,
   },
   {
     title: 'VELOS',
     description: "ABS Tweaks or Arkaynine Boost Script is a collection of shell scripts written with the aim of enhancing the performance and battery life of an Android phone. It got 2 Lac+ downloads overall.",
-    image: '/images/abs.jpg',
+    image: '/images/velos.png',
     tags: ['CAD', 'Ansys'],
     source: 'https://github.com/lordarcadius/ABS-Tweaks',
     visit: 'https://forum.xda-developers.com/t/tweak-mod-arm-x86-project-dark-booster-abs-tweaks-v5-0-2-3-6-0-23-01-2016.3120404/',
     id: 2,
   },
   {
-    title: 'Landmine',
+    title: 'Practice Landmine',
     description: "ElectraBlue is a flash & forget custom kernel for supported Android devices. It was developed with the aim to provide a stable, fluid, & battery-efficient experience with customizations.",
     image: '/images/eb.jpg',
     tags: ['CAD', 'Ansys'],
@@ -45,12 +45,12 @@ export const projects = [
     id: 4,
   },
   {
-    title: 'ADDictive',
+    title: 'ADD-ictive',
     description: "CyanogenOS 12.1 had a set of exclusive apps like a new theme engine and a new Truecaller integrated dialer. I ported it to work with CyanogenMod 13 and CM 13 based ROMs.",
-    image: '/images/capps.jpg',
+    image: '/images/addictiveAd.png',
     tags: ['Unity', 'C#'],
     source: '#',
-    visit: 'https://forum.xda-developers.com/t/c-apps-v2-unofficial-6-0-x-cyanogen-os-capps-v2-for-cm13-and-cm13-based-roms.3254865/',
+    visit: '/addictive',
     id: 5,
   },
   {
@@ -67,9 +67,9 @@ export const projects = [
 
 export const TimeLineData = [
   { year: 2017, text: 'Started work at Chandler-Gilber Community College as a Math and Physics Tutor.', },
-  { year: 2019, text: 'Started work at ASU Luminosity Lab.', },
+  { year: 2019, text: 'Started work at the ASU Luminosity Lab.', },
   { year: 2019, text: 'Started work at NXP Semiconductors as a Reliability Testing Intern.', },
   { year: 2020, text: 'Started work at Intel as a Student Process Engineer.', },
   { year: 2021, text: 'Graduated from ASU with a bachelors degree in Mechanical Engineering.', },
-  { year: 2022, text: 'Graduated from ASU with a masters in Robotics and Autonomous Systems.', },
+  { year: 2022, text: 'Graduated from ASU with a masters degree in Robotics and Autonomous Systems.', },
 ];

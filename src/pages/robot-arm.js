@@ -5,15 +5,15 @@ import { Layout } from '../layout/Layout';
 import Button from '../styles/GlobalComponents/Button';
 import Link from 'next/link'
 
-const Projects = () => (
+const RobotArm = () => (
     <Layout>
-        <Section id="projects">
+        <Section id="description">
             <SectionTitle main>Intuitive Human Controlled Robotic Arm</SectionTitle>
-            <SectionText>This is a test</SectionText>
+            <SectionText>Many robotic systems that utilize remote user operation have very complicated systems in place for the user to control the robot. These systems can require multiple computers and multiple human operators for the simplest actions. This system is designed to allow for a user to control a robotic arm remotely in the simplest and most intuitive way possible.</SectionText>
             <Button onClick={(e) => {
                 e.preventDefault();
                 window.location.href = '/files/IntuitiveHumanControlledRoboticArm.pdf';
-            }}>Report</Button>
+            }}>Full Report</Button>
         </Section>
         <Section id="video1">
             <SectionDivider />
@@ -28,4 +28,4 @@ const Projects = () => (
     </Layout>
 );
 
-export default Projects;
+export default RobotArm;
