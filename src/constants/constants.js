@@ -23,7 +23,7 @@ export const projects = [
     image: '/images/velos.png',
     tags: ['CAD', 'Ansys'],
     source: 'https://github.com/lordarcadius/ABS-Tweaks',
-    visit: 'https://forum.xda-developers.com/t/tweak-mod-arm-x86-project-dark-booster-abs-tweaks-v5-0-2-3-6-0-23-01-2016.3120404/',
+    visit: '/velos',
     id: 2,
   },
   {
