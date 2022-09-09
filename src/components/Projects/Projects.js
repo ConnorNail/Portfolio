@@ -30,7 +30,7 @@ const Projects = () => (
             </div>
             <UtilityList>
               <Link href={p.visit}><ExternalLinks style={{cursor: 'pointer'}}>Details</ExternalLinks></Link>
-              <ExternalLinks href={p.source}>Source Code</ExternalLinks>
+              {p.source != "" && <ExternalLinks href={p.source}>Source Code</ExternalLinks>}
             </UtilityList>
           </BlogCard>
         );

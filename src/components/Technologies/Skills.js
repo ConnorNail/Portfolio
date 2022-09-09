@@ -1,111 +1,99 @@
 import { DiTerminal } from "react-icons/di";
-import { SiJava, SiRuby, SiGit, SiUnity, SiRos, SiAnsys } from "react-icons/si";
+import { SiJava, SiRuby, SiGit, SiUnity, SiRos, SiAnsys, SiCsharp, SiScikitlearn } from "react-icons/si";
 import { RiFlutterFill, RiCodeSSlashFill, RiPencilRuler2Line } from "react-icons/ri";
 import { FaPython, FaReact } from "react-icons/fa";
 import { ImStatsDots, ImStatsBars } from "react-icons/im";
-import { TbMath } from "react-icons/tb";
+import { TbMath, TbMathFunction } from "react-icons/tb";
 
 export const Skills = [
   {
     slug: "ansys",
     Component: SiAnsys,
     title: "Ansys",
-    Description: () => <>Currently working with Dart & Flutter for app development. </>,
+    Description: () => <>Used static, dynamic, thermal, shock, and random vibe simulations to help with design iteration and testing.</>,
   },
   {
     slug: "flownex",
     Component: RiFlutterFill,
     title: "Flownex",
-    Description: () => <>Currently working with Dart & Flutter for app development. </>,
-  },
-  {
-    slug: "c#",
-    Component: RiCodeSSlashFill,
-    title: "C#",
-    Description: () => <>Currently working with Dart & Flutter for app development. </>,
-  },
-  {
-    slug: "python",
-    Component: FaPython,
-    title: "Python",
-    Description: () => <>Currently working with Dart & Flutter for app development. </>,
-  },
-  {
-    slug: "react",
-    Component: FaReact,
-    title: "React",
-    Description: () => <>Currently working with Dart & Flutter for app development. </>,
+    Description: () => <>Utilized this tool to develop fluid flow simulations as well as thermal control systems.</>,
   },
   {
     slug: "jsl",
     Component: ImStatsDots,
     title: "JSL",
-    Description: () => <>Currently working with Dart & Flutter for app development. </>,
+    Description: () => <>Created data visualization tools for manufacturing statistics that aided in process decision making.</>,
   },
   {
-    slug: "vba",
-    Component: RiCodeSSlashFill,
-    title: "VBA/VBS",
-    Description: () => <>Currently working with Dart & Flutter for app development. </>,
+    slug: "python",
+    Component: FaPython,
+    title: "Python",
+    Description: () => <>Used primarily for machine learning, data manipulation, and http servers.</>,
   },
   {
-    slug: "java",
-    Component: SiJava,
-    title: "Java",
-    Description: () => <>Currently working with Dart & Flutter for app development. </>,
+    slug: "machine-learning",
+    Component: SiScikitlearn,
+    title: "Machine Learning",
+    Description: () => <>Utilized Scikit-Learn and Keras to create many different types of ML models.</>,
   },
   {
-    slug: "ruby",
-    Component: SiRuby,
-    title: "Ruby",
-    Description: () => <>Currently working with Dart & Flutter for app development. </>,
+    slug: "react",
+    Component: FaReact,
+    title: "React",
+    Description: () => <>Built a website and desktop app using React alongside Electron and Next.js.</>,
   },
   {
-    slug: "matlab",
-    Component: TbMath,
-    title: "MATLAB",
-    Description: () => <>Currently working with Dart & Flutter for app development. </>,
-  },
-  {
-    slug: "jmp",
-    Component: ImStatsBars,
-    title: "JMP",
-    Description: () => <>Currently working with Dart & Flutter for app development. </>,
-  },
-  {
-    slug: "ros",
-    Component: SiRos,
-    title: "ROS",
-    Description: () => <>Currently working with Dart & Flutter for app development. </>,
-  },
-  {
-    slug: "cad",
-    Component: RiPencilRuler2Line,
-    title: "CAD",
-    Description: () => <>Currently working with Dart & Flutter for app development. </>,
+    slug: "c#",
+    Component: SiCsharp,
+    title: "C#",
+    Description: () => <>Used alongside Unity to develop multiple applications.</>,
   },
   {
     slug: "unity",
     Component: SiUnity,
     title: "Unity",
-    Description: () => <>I have developed multiple applications using Unity.</>,
+    Description: () => <>Developed applications for iPhone, Android, HoloLens, Oculus, and Desktop.</>,
+  },
+  {
+    slug: "vba",
+    Component: RiCodeSSlashFill,
+    title: "VBA/VBS",
+    Description: () => <>Used for small tasks such as web scraping, file management, and data manipulation.</>,
+  },
+  {
+    slug: "matlab",
+    Component: TbMath,
+    title: "MATLAB",
+    Description: () => <>Wrote many custom functions to solve problems both numerically and analytically.</>,
+  },
+  {
+    slug: "simulink",
+    Component: TbMathFunction,
+    title: "Simulink",
+    Description: () => <>Used to simulate control system models for non-linear systems.</>,
   },
   {
     slug: "java",
     Component: SiJava,
     title: "Java",
-    Description: () => <>I can code in Java. But I mainly use it for Android app development.</>,
+    Description: () => <>Used to program a robot controller for robotics competitions.</>,
   },
   {
-    slug: "terminal",
-    Component: DiTerminal,
-    title: "Scripting",
-    Description: () => <>I have written dozens of Shell scripts for various purposes.</>,
+    slug: "ros",
+    Component: SiRos,
+    title: "ROS",
+    Description: () => <>Utilized this framework to develop a control structure for multiple systems.</>,
+  },
+  {
+    slug: "cad",
+    Component: RiPencilRuler2Line,
+    title: "CAD",
+    Description: () => <>Solidworks CSWP Certificate acquired for mechanical CAD design.</>,
   },
   {
     slug: "git",
     Component: SiGit,
     title: "Git",
-    Description: () => <>Git is a tool that I use every day. I use GitHub for pushing my code.</>,
+    Description: () => <>Used both for code version control and to for collaborating on software projects.</>,
   },
 ];

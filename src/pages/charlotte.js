@@ -17,10 +17,22 @@ const Charlotte = () => (
         <Section id="big-idea-challenge">
             <SectionDivider />
             <SectionText>I worked on this project while a part of the Luminosity Lab. We were selected as one of the finalists in the <Link href='https://bigidea.nianet.org/2022-finalists/'>2022 NASA Big Idea Challenge</Link>. Through this we were given funding to develop the CHARLOTTE system.</SectionText>
-        </Section>
-        <Section id="contribution">
-            <SectionDivider />
             <SectionText>My primary contribution to this project included simulation, mechanical design, and control system/software development.</SectionText>
+        </Section>
+        <Section id="video1">
+            <SectionDivider />
+            <SectionText>Full body dynamic simulation.</SectionText>
+            <iframe width="auto" height="585" src="https://www.youtube.com/embed/j06ebP9Uz8Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        </Section>
+        <Section id="video2">
+            <SectionDivider />
+            <SectionText>Full body structural simulation.</SectionText>
+            <iframe width="auto" height="585" src="https://www.youtube.com/embed/9bbGttYNcGM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        </Section>
+        <Section id="video3">
+            <SectionDivider />
+            <SectionText>Foot thermal simulation.</SectionText>
+            <iframe width="auto" height="585" src="https://www.youtube.com/embed/pNDc40FauTQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
         </Section>
     </Layout>
 );
