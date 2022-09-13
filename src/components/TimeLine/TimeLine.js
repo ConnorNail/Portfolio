@@ -46,7 +46,7 @@ const Timeline = () => {
     <Section id="about">
       <SectionTitle>My Journey</SectionTitle>
       <SectionText>
-        In my journey to date, I have learned a great deal about development and life in general.
+        Some of the major milestones so far
       </SectionText>
       <CarouselContainer ref={carouselRef} onScroll={handleScroll}>
         <>

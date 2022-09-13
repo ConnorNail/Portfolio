@@ -27,15 +27,6 @@ export const projects = [
     id: 2,
   },
   {
-    title: 'Practice Landmine',
-    description: "ElectraBlue is a flash & forget custom kernel for supported Android devices. It was developed with the aim to provide a stable, fluid, & battery-efficient experience with customizations.",
-    image: '/images/eb.jpg',
-    tags: ['CAD', 'Ansys'],
-    source: '',
-    visit: 'https://forum.xda-developers.com/t/kernel-mido-oreo-pie-electrablue-kernel-21-0-july-06-redmi-note-4.3655651/',
-    id: 3,
-  },
-  {
     title: 'AR App',
     description: "Lenovo SNAPit Camera was one of the finest OEM camera apps back in those days. It had tonnes of unique and amazing features. I ported it to work on almost all devices at that time.",
     image: '/images/snapit.jpg',
@@ -71,5 +62,5 @@ export const TimeLineData = [
   { year: 2019, text: 'Started work at NXP Semiconductors as a Reliability Testing Intern.', },
   { year: 2020, text: 'Started work at Intel as a Student Process Engineer.', },
   { year: 2021, text: 'Graduated from ASU with a bachelors degree in Mechanical Engineering.', },
-  { year: 2022, text: 'Graduated from ASU with a masters degree in Robotics and Autonomous Systems.', },
+  { year: 2022, text: 'Will graduate from ASU with a masters degree in Robotics and Autonomous Systems.', },
 ];

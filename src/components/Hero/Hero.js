@@ -9,10 +9,10 @@ const Hero = (props) => (
     <Section row nopadding>
       <LeftSection>
         <SectionTitle main center>
-          Hey there,
+          Hello,
         </SectionTitle>
         <SectionText>
-          My name is Connor Nail, I am a mechanical engineer with a background in semiconductor manufacturing and physical simulation.
+          My name is Connor Nail, I am a Robotics & Autonomous Systems graduate student enrolled at Arizona State University. I have a background in the CMP process of semiconductor manufacturing with experience in reliability testing, physics simulations, and web development.
         </SectionText>
         <Button onClick={(e) => {
           e.preventDefault();
