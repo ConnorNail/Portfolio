@@ -37,11 +37,11 @@ export const projects = [
   },
   {
     title: 'Chess Robot',
-    description: "Lenovo SNAPit Camera was one of the finest OEM camera apps back in those days. It had tonnes of unique and amazing features. I ported it to work on almost all devices at that time.",
-    image: '/images/snapit.jpg',
-    tags: ['Unity', 'HoloLens', 'Photon'],
+    description: "A pick and place robotic arm designed for playing chess. A computed torque control system was designed for this system and simulated using Simulink and MATLAB.",
+    image: '/images/chessRobot1.png',
+    tags: ['MATLAB', 'Simulink', 'Solidworks'],
     source: '',
-    visit: 'https://forum.xda-developers.com/t/app-port-6-0-lenovo-snapit-camera-5-8-53-for-all-devices.3608065/',
+    visit: '/chess-robot',
     id: 4,
   },
   {
