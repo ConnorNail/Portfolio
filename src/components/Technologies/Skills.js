@@ -94,6 +94,6 @@ export const Skills = [
     slug: "git",
     Component: SiGit,
     title: "Git",
-    Description: () => <>Used both for code version control and to for collaborating on software projects.</>,
+    Description: () => <>Used both for code version control and for collaborating on software projects.</>,
   },
 ];

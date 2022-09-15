@@ -26,6 +26,7 @@ const Velos = () => (
         <Section id="other-media">
             <SectionDivider />
             <SectionText>I worked on this project while a part of the Luminosity Lab. We were selected as one of the finalists in the <Link href='https://bigidea.nianet.org/past-competition-themes/2020-competition/'>2020 NASA Big Idea Challenge</Link>. Through this we were given funding to develop the VELOS system.</SectionText>
+            <SectionText>My primary contributions to this project included simulation to aid in system design and lunar environment testing.</SectionText>
             <SectionText>After completing the project, I presented my simulation work at the 2021 Simulation World Conference.</SectionText>
             <SectionText>An article was written on the official <Link href='https://www.ansys.com/blog/shedding-light-on-a-shadowy-target'>Ansys Blog</Link> to talk about how simulation was implemented to support this project.</SectionText>
             <SectionText>Additionally, I was invited on to the <Link href='https://www.padtinc.com/2021/05/17/all-things-ansys-088-taking-simulation-to-the-moon/'>All Things Ansys podcast</Link> to talk about my simulation work.</SectionText>

@@ -17,7 +17,7 @@ const Charlotte = () => (
         <Section id="big-idea-challenge">
             <SectionDivider />
             <SectionText>I worked on this project while a part of the Luminosity Lab. We were selected as one of the finalists in the <Link href='https://bigidea.nianet.org/2022-finalists/'>2022 NASA Big Idea Challenge</Link>. Through this we were given funding to develop the CHARLOTTE system.</SectionText>
-            <SectionText>My primary contribution to this project included simulation, mechanical design, and control system/software development.</SectionText>
+            <SectionText>My primary contributions to this project have been in CAD design, simulation analysis for design validation, locomotion control system structuring, and thermal control system design.</SectionText>
         </Section>
         <Section id="video1">
             <SectionDivider />

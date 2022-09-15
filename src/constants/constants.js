@@ -57,8 +57,8 @@ export const projects = [
 ];
 
 export const TimeLineData = [
-  { year: 2017, text: 'Started work at Chandler-Gilber Community College as a Math and Physics Tutor.', },
-  { year: 2019, text: 'Started work at the ASU Luminosity Lab.', },
+  { year: 2017, text: 'Started work at Chandler-Gilbert Community College as a Math and Physics Tutor.', },
+  { year: 2019, text: 'Started work at ASU in the Luminosity Lab.', },
   { year: 2019, text: 'Started work at NXP Semiconductors as a Reliability Testing Intern.', },
   { year: 2020, text: 'Started work at Intel as a Student Process Engineer.', },
   { year: 2021, text: 'Graduated from ASU with a bachelors degree in Mechanical Engineering.', },
