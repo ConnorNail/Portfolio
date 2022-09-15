@@ -19,7 +19,7 @@ export const projects = [
   },
   {
     title: 'CHARLOTTE',
-    description: "CHARLOTTE is developed to operate as a scientific exploration rover tasked with searching permanently shadowed craters on the Lunar south pole in search of water ice and geological signs of other volatiles.",
+    description: "CHARLOTTE is developed to operate as a scientific exploration rover tasked with searching permanently shadowed craters on the Lunar south pole in search of water ice.",
     image: '/images/charlotte.png',
     tags: ['CAD', 'Ansys', 'Flownex', 'ROS'],
     source: '',
