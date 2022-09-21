@@ -17,7 +17,7 @@ const Footer = () => {
       </LinkList>
       <SocialIconsContainer>
         <CompanyContainer>
-          <Slogan>&copy; 2022 <Link href="https://www.vipuljha.com">  Connor Nail</Link> . All rights reserved.</Slogan>
+          <Slogan>&copy; 2022 <Link href="https://connornail.vercel.app/">  Connor Nail</Link> . All rights reserved.</Slogan>
         </CompanyContainer>
         <SocialContainer>
           <SocialIcons href="https://github.com/ConnorNail">

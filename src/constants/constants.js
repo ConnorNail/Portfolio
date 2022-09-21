@@ -28,7 +28,7 @@ export const projects = [
   },
   {
     title: 'ADD-ictive',
-    description: "ADD-ictive is a mobile game developed using Unity for both iOS and Android. The game is like Suduko but required players to use addition and subtraction to complete the puzzles.",
+    description: "ADD-ictive is a mobile game developed using Unity for both iOS and Android. The game is like Suduko but requires players to use addition and subtraction to complete the puzzles.",
     image: '/images/addictiveAd.png',
     tags: ['Unity', 'C#'],
     source: 'https://github.com/ConnorNail/Addition',
@@ -46,7 +46,7 @@ export const projects = [
   },
   {
     title: 'Clan Base',
-    description: "Clan Base is a third-party companion website for Destiny 2 that utilized the Bungie API to create a place for users to visualize data related to player interactions.",
+    description: "Clan Base is a third-party companion website for Destiny 2 that utilizes the Bungie API to create a place for users to visualize data related to player interactions.",
     image: '/images/clanBase.png',
     tags: ['React', 'Rest API', 'Next.JS'],
     source: '',
@@ -63,4 +63,5 @@ export const TimeLineData = [
   { year: 2020, text: 'Started work at Intel as a Student Process Engineer.', },
   { year: 2021, text: 'Graduated from ASU with a bachelors degree in Mechanical Engineering.', },
   { year: 2022, text: 'Will graduate from ASU with a masters degree in Robotics and Autonomous Systems.', },
+  { year: 2022, text: 'Working with you to advance your corporate mission.', },
 ];
