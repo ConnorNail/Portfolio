@@ -13,7 +13,7 @@ const Addictive = () => (
         </Section>
         <Section id="apple-links">
             <SectionDivider />
-            <SectionText>The app isa available on both the <Link href='https://apps.apple.com/us/app/add-ictive/id1468671771'>Apple App Store</Link> and the <Link href='https://play.google.com/store/apps/details?id=com.Crunchy.Addition'>Google Play Store</Link>.</SectionText>
+            <SectionText>The app is available on both the <Link href='https://apps.apple.com/us/app/add-ictive/id1468671771'>Apple App Store</Link> and the <Link href='https://play.google.com/store/apps/details?id=com.Crunchy.Addition'>Google Play Store</Link>.</SectionText>
             <img src="/images/addictiveImage.png" alt="ADD-ictive Images"/>
         </Section>
     </Layout>

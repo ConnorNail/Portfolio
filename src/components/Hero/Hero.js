@@ -12,7 +12,7 @@ const Hero = (props) => (
           Hello,
         </SectionTitle>
         <SectionText>
-          My name is Connor Nail. I am a Robotics & Autonomous Systems graduate student enrolled at Arizona State University. I have a background in the CMP process of semiconductor manufacturing with experience in reliability testing, physics simulations, and web development.
+          My name is Connor Nail. A highly motivated, analytical, and technical software developer with a graduate degree in Robotics & Autonomous Systems. Demonstrated background in virtual reality and augmented reality application development with experience in developing for the web and mobile devices.
         </SectionText>
         <Button onClick={(e) => {
           e.preventDefault();

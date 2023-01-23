@@ -13,7 +13,16 @@ const ClanBase = () => (
         </Section>
         <Section id="video1">
             <SectionDivider />
-            <SectionText>Coming Soon...</SectionText>
+            <SectionText>
+            ClanBase is built using React with Next.js. It utilizes OAuth for authentication with Bungie, Patreon, and Discord. It uses a Mongo database to store user information and collect general Destiny 2 statistics.
+            <br/>
+            <br/>
+            Alongside the website, a Discord bot has been developed to track user activity in specified Discord servers. This data is used to provide an overview on the website of a player's seasonal activity both in Desinty 2 and their clan's Discord server.
+            </SectionText>
+        </Section>
+        <Section id="video1">
+            <SectionDivider />
+            <SectionText>ClanBase will be release on 2/21/23</SectionText>
             <img src="/images/clanBase.png" alt="Clan Base Home Page Image"/>
         </Section>
     </Layout>

@@ -17,19 +17,26 @@ const Charlotte = () => (
         <Section id="big-idea-challenge">
             <SectionDivider />
             <SectionText>I worked on this project while a part of the Luminosity Lab. We were selected as one of the finalists in the <Link href='https://bigidea.nianet.org/2022-finalists/'>2022 NASA Big Idea Challenge</Link>. Through this we were given funding to develop the CHARLOTTE system.</SectionText>
-            <SectionText>My primary contributions to this project have been in CAD design, simulation analysis for design validation, locomotion control system structuring, and thermal control system design.</SectionText>
+            <SectionText>My primary contributions to this project was in CAD design, simulation analysis for design validation, locomotion control system structuring, and thermal control system design.</SectionText>
+            <SectionText><Link href='https://livestream.com/viewnow/bigideachallenge/videos/233781015'>NASA Big Idea Challenge 2022 Forum Presentation at 5:51:20</Link></SectionText>
+            <SectionText><Link href='https://bigidea.nianet.org/wp-content/uploads/Arizona-State-University-2022-Big-Idea-Poster.pdf'>NASA Big Idea Challenge 2022 Poster</Link></SectionText>
         </Section>
-        <Section id="video1">
+        <Section id="video2">
+            <SectionDivider />
+            <SectionText>CHARLOTTE Test at Colton Crator.</SectionText>
+            <iframe width="auto" height="585" src="https://www.youtube.com/embed/4ZdTZlxNE2w" title="CHARLOTTE at Colton Crater" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+        </Section>
+        <Section id="video3">
             <SectionDivider />
             <SectionText>Full body dynamic simulation.</SectionText>
             <iframe width="auto" height="585" src="https://www.youtube.com/embed/j06ebP9Uz8Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
         </Section>
-        <Section id="video2">
+        <Section id="video4">
             <SectionDivider />
             <SectionText>Full body structural simulation.</SectionText>
             <iframe width="auto" height="585" src="https://www.youtube.com/embed/9bbGttYNcGM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
         </Section>
-        <Section id="video3">
+        <Section id="video5">
             <SectionDivider />
             <SectionText>Foot thermal simulation.</SectionText>
             <iframe width="auto" height="585" src="https://www.youtube.com/embed/pNDc40FauTQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
