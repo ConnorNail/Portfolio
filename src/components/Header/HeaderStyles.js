@@ -20,7 +20,7 @@ export const Container = styled.div`
 export const Div1 = styled.div`
   grid-area: 1 / 1 / 2 / 2;
   display: flex;
-  flex-direction: row;
+  flex-direction: column;
   align-content: center;
   @media ${(props) => props.theme.breakpoints.sm} {
     grid-area: 1 / 1 / 2 / 3;

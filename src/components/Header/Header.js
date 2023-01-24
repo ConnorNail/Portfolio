@@ -11,6 +11,12 @@ const Header = () => (
           <span style={{ marginLeft: 10, marginTop: 7, fontSize: 30 }} >Connor Nail</span>
         </a>
       </Link>
+      
+      {/* <Link href="mailto:connor.nail@cox.net">
+        <a style={{ display: 'flex', alignItems: 'center', color: "#18C5DD" }}>
+          <span style={{ marginLeft: 10, marginTop: 7, fontSize: 15 }} >connor.nail@cox.net</span>
+        </a>
+      </Link> */}
     </Div1>
     <Div2>
       <li>

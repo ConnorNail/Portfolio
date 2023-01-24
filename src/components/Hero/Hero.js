@@ -14,6 +14,13 @@ const Hero = (props) => (
         <SectionText>
           My name is Connor Nail. A highly motivated, analytical, and technical software developer with a graduate degree in Robotics & Autonomous Systems. Demonstrated background in virtual reality and augmented reality application development with experience in developing for the web and mobile devices.
         </SectionText>
+        <SectionText>
+          Contact me
+          <br/>
+          <Link href="mailto:connor.nail@cox.net">
+            connor.nail@cox.net
+          </Link>
+        </SectionText>
         <Button onClick={(e) => {
           e.preventDefault();
           window.location.href = '/files/resume.pdf';
